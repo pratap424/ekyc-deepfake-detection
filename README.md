@@ -273,7 +273,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/pratap424/ekyc-deepfake-detection/issues)
-- **Email**: yashpratap424@gmail.com
+- **Email**: yashpratap424@gmail.com,shrutibaghel19@gmail.com
+- **Authors- https://github.com/baghelShruti , https://github.com/pratap424
 
 ---
 
