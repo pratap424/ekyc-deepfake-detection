@@ -281,4 +281,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repository if you find it useful!** ⭐
 
 *Built with ❤️ for secure digital identity verification*
-*We won the Zentej S3 Hackathon with this project - Team Members - Yash & Shruti*
+*We won the Zentej S3 Hackathon with this project - Team Members - Shruti & Yash *
