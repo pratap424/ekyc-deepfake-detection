@@ -8,9 +8,36 @@ A cutting-edge **electronic Know Your Customer (eKYC)** system that combines **d
 
 ## 🎥 Demo Video
 
-https://github.com/pratap424/ekyc-deepfake-detection/assets/demo_video_final.mp4
+> **📹 [Click here to download demo video](demo_video_final.mp4)** 
+> 
+> *Watch our ZenTej eKYC system in action - real-time deepfake detection and liveness verification!*
 
-*Watch our system in action - real-time deepfake detection and liveness verification!*
+### 🎬 What you'll see in the demo:
+- **Live face detection** and tracking
+- **Real-time deepfake analysis** with confidence scores
+- **Liveness verification** detecting eye blinks and movements
+- **Identity matching** against reference documents
+- **Explainable AI** showing attention maps and decision reasoning
+
+**To view the demo:**
+```bash
+# Clone the repository
+git clone https://github.com/pratap424/ekyc-deepfake-detection.git
+cd ekyc-deepfake-detection
+
+# The demo video will be automatically downloaded via Git LFS
+# Open demo_video_final.mp4 with any media player
+```
+
+## 📸 System Screenshots
+
+![Training Results](training_result_snapshot.png)
+*Training performance and model accuracy metrics*
+
+### 🖥️ Interface Preview
+- **Web Dashboard**: User-friendly Gradio interface
+- **Real-time Analysis**: Live video processing with instant feedback
+- **Detailed Reports**: Comprehensive verification results with explanations
 
 ## ✨ Key Features
 
