@@ -273,11 +273,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/pratap424/ekyc-deepfake-detection/issues)
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: yashpratap424@gmail.com
 
 ---
 
 ⭐ **Star this repository if you find it useful!** ⭐
 
 *Built with ❤️ for secure digital identity verification*
+*We won the Zentej S3 Hackathon with this project - Team Members - Yash & Shruti*
